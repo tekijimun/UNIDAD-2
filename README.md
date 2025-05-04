@@ -1,5 +1,12 @@
 # UNIDAD-2
 MAS VALE TARDE QUE NUNCA
+### 📦 Descarga del ejecutable
+
+Puedes descargar la aplicación empaquetada en un archivo `.rar` desde el siguiente enlace:
+
+[📥 Descargar Biblioteca Digital (.rar)](https://drive.google.com/uc?export=download&id=1q8D2QbrB0XT0AyhrqOQrRRCvItnYVRvI)
+
+> Asegúrate de descomprimir el archivo y seguir las instrucciones del `README.txt` incluido.
 Descomprimir el archivo:
 Extrae todos los archivos del archivo comprimido (RAR o ZIP) en una carpeta de tu elección.
 
